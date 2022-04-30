@@ -1,1 +1,1 @@
-# isotropizationFewShotIntentDetection
+# isoFewShotIntentDetection
