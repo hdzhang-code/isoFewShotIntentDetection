@@ -69,7 +69,7 @@ You may follow the similar procedure to reproduce results of other methods.
 
 
 ### Models
-You may also skip the training process (the step 1.) and download the models [here](www.google.com). Decompress the model in folder ./saved_models/.
+You may also skip the training process (the step 1.) and download the models [here](https://drive.google.com/file/d/1AE1Hp-n6xbExQGbNclvSuXrOexoxPvvi/view?usp=sharing). Decompress the model in folder ./saved_models/.
 
 ## Citation
 Please cite our work if it helps you.
