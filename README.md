@@ -41,7 +41,7 @@ python showDataset.py
     reportIsotropy_CLReg.sh: report the isotropy of model trained by transfer_CLReg.sh
     reportIsotropy_CorReg.sh: report the isotropy of model trained by transfer_CorReg.sh
 
-Key Arguments:
+## Key Arguments:
 1. In scripts eval_*.sh and reportIsotropy_*.sh, there are two key arguments *dataDir* and *targetDomain*, which are set 'bank77' and 'BANKING', respectively, by default. You may change them to other values that have been commented off in the scripts to check the performance or isotropy on other datasets.
 2. shot is the shot number for each classes.
 
