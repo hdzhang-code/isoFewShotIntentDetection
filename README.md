@@ -26,7 +26,7 @@ python showDataset.py
 ```
 
 ### Environment
-We use Conda to manage the environment. Details can be found in file **conda-env.yml**.
+We use Conda to manage the environment. Details can be found in file [**conda-env.yml**](https://github.com/hdzhang-code/isoFewShotIntentDetection/blob/main/conda-env.yml).
 
 ### Scripts
 1. Training  
