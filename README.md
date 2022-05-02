@@ -65,7 +65,7 @@ Take the reproducing of CLReg+CorReg results for example.
 ```bash
 ./scripts/reportIsotropy_CLReg_CorReg.sh
 ```
-You may follow the similar procedure to reproduce results of other methods.
+You may follow similar procedure to reproduce results of other methods.
 
 
 ### Models
