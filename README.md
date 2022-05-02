@@ -49,7 +49,7 @@ We use Conda to manage the environment. Details can be found in file [**conda-en
 1. In scripts eval_*.sh and reportIsotropy_*.sh, there are two key arguments **dataDir** and **targetDomain**, which are set 'bank77' and 'BANKING', respectively, by default. You may change them to other values that have been commented off in the scripts to check the performance or isotropy on other datasets.
 2. **shot** is the shot number for each classes.
 
-Note: For the reason of statistical significance, by default, all transfer*.sh repeat the training for 5 times, using seed 1,2,3,4 and 5, respectively. Therefore, all transfer*.sh is expected to generate 5 models in this disk. All eval_\*.sh and all reportIsotropy_\*.sh are expected to read these models one by one to execute the corresponding python script. The data reported in the paper is the results averaged over these five repetitions.
+Note: For the reason of statistical significance, by default, all transfer*.sh repeat the training for 5 times, using seed 1,2,3,4 and 5, respectively. Therefore, all transfer*.sh is expected to generate 5 models in the disk. All eval_\*.sh and all reportIsotropy_\*.sh are expected to read these models one by one to execute the corresponding python script. The data reported in the paper is the results averaged over these five repetitions.
 
 ### How
 Take the reproducing of CLReg+CorReg results for example.
