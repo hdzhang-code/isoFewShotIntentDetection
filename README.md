@@ -74,7 +74,7 @@ You may also skip the training process (the step 1.) and download the models [he
 ### Results
 The results are expected to be close to that reported in the paper.
 
-![image](https://user-images.githubusercontent.com/59167334/166639434-c83623fd-c19f-4bc8-8187-6e8f06bbc6ab.png)
+![image](resources/acc.png)
 
 Here is the isotropy value.
 
