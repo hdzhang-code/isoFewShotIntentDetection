@@ -78,7 +78,7 @@ The results are expected to be close to that reported in the paper.
 
 Here is the isotropy value.
 
-![image](https://user-images.githubusercontent.com/59167334/166639548-b2527a12-4da9-4eb6-b244-f5154eb60a92.png)
+![image](resources/iso.png)
 
 
 ## Citation
