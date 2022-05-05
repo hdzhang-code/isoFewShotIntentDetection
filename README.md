@@ -1,6 +1,6 @@
 ## Fine-tuning Pre-trained Language Models for Few-shot Intent Detection: Supervised Pre-training and Isotropization
 
-This repository contains the code of the paper on NAACL 2022: [Fine-tuning Pre-trained Language Models for Few-shot Intent Detection: Supervised Pre-training and Isotropization](http://www.google.com).
+This repository contains the code of the paper on NAACL 2022: [Fine-tuning Pre-trained Language Models for Few-shot Intent Detection: Supervised Pre-training and Isotropization]().
 
 ## Quick Links
 
@@ -83,4 +83,3 @@ Here is the isotropy value.
 
 ## Citation
 Please cite our work if it is helpful to you.
-
